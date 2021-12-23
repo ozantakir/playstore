@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/services.dart';
 import 'package:playstore/colors.dart';
-import 'package:playstore/deneme.dart';
-import 'package:playstore/deneme2.dart';
 import 'apps_page.dart';
 import 'books_page.dart';
 import 'games_page.dart';
